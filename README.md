@@ -7,5 +7,5 @@ Using
 1. Load 2b.lsp into AutoCAD by using "appload" command.
 2. Call "2b" command.
 3. Select 3dSolids. Each 3dSolid is regarded as a panel (in Bazis meaning). Solids should lay on separate layers by materials.
-4. Open Bazis, open script editor, paste script from clipboard (Ctrl-V).
+4. Open Bazis, open script editor, paste script from clipboard (Ctrl-V), run the script (F5).
 5. Enjoy.
